@@ -3,8 +3,8 @@
   <Card class="mt-16 mx-6 py-20">
     <template #content>
       <div class="text-center">
-        <div class="sm:text-6xl text-4xl font-bold mb-3">GrowServer</div>
-        <p>A Growtopia private server using NodeJS</p>
+        <div class="sm:text-6xl text-4xl font-bold mb-3">GTMP</div>
+        <p>A Growtopia private server using Growtopia.JS</p>
       </div>
     </template>
   </Card>

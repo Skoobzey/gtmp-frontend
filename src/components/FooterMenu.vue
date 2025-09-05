@@ -9,7 +9,7 @@
         >GrowServer</a
       >
     </div>
-    <div>Not affiliate with Ubisoft</div>
+    <div>Not affiliated with Ubisoft.</div>
   </div>
 </template>
 

@@ -1,7 +1,7 @@
 <template>
   <div class="card p-4 sticky top-0">
     <Menubar :model="items">
-      <template #start> <RouterLink to="/" class="font-bold">GrowServer</RouterLink></template>
+      <template #start> <RouterLink to="/" class="font-bold">GTMP</RouterLink></template>
     </Menubar>
   </div>
 </template>

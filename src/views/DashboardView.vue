@@ -14,7 +14,7 @@
             shape="circle"
             size="normal"
           />
-          <div>Welcome to GrowServer</div>
+          <div>Welcome to GTMP</div>
         </header>
         <div style="border-top-width: 1px; border-color: rgba(255, 255, 255, 0.2)" class="p-8">
           <div>Only these for now</div>

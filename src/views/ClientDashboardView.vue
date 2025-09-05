@@ -4,36 +4,17 @@
   >
     <div class="w-[400px] h-auto bg-surface-800 rounded-md pb-8">
       <div class="text-center my-8">
-        <div class="font-bold text-2xl">Welcome to GrowServer</div>
+        <div class="font-bold text-2xl">Welcome to GTMP</div>
       </div>
 
       <div class="px-6">
         <RouterLink to="/player/login/dashboard/legacy-login">
-          <Button label="Login Legacy" icon="pi pi-user" class="w-full" />
+          <Button label="Login" icon="pi pi-user" class="w-full" />
         </RouterLink>
       </div>
-      <div class="px-6 my-4">
-        <Button
-          label="Google Login (Soon)"
-          :disabled="true"
-          icon="pi pi-google"
-          class="w-full"
-          severity="contrast"
-        />
-      </div>
-      <div class="px-6">
-        <Button
-          label="Discord Login (Soon)"
-          :disabled="true"
-          icon="pi pi-discord"
-          class="w-full"
-          severity="info"
-        />
-      </div>
-
       <div class="px-6 mt-8">
         <RouterLink to="/player/login/dashboard/legacy-register">
-          <Button label="Register Legacy Account" icon="pi pi-user-plus" class="w-full" />
+          <Button label="Register Account" icon="pi pi-user-plus" class="w-full" />
         </RouterLink>
       </div>
     </div>
